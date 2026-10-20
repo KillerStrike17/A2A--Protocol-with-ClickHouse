@@ -1,0 +1,12 @@
+google-adk>=2.12.0,<3
+a2a-sdk[http-server]>=1.2.3,<2
+crewai[tools]>=1.15.28,<2
+clickhouse-connect>=1.11.0
+nest-asyncio>=1.6.0
+python-dotenv
+click
+uvicorn
+starlette
+httpx
+pydantic
+pandas
